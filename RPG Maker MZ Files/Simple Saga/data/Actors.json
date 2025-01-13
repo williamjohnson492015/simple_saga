@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Actor2_1","characterIndex":0,"characterName":"Actor2","classId":1,"equips":[1,0,0,8,0],"faceIndex":0,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":5,"name":"????????","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor2_1","characterIndex":0,"characterName":"Actor2","classId":1,"equips":[1,0,0,8,0],"faceIndex":0,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":5,"name":"????????","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor2_1","characterIndex":0,"characterName":"Actor2","classId":1,"equips":[1,0,65,8,0],"faceIndex":0,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":5,"name":"????????","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor2_1","characterIndex":0,"characterName":"Actor2","classId":1,"equips":[1,0,0,8,0],"faceIndex":0,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":5,"name":"????????","nickname":"","note":"","profile":""}
+]
